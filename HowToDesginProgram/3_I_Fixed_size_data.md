@@ -1,1 +1,0 @@
-# I. Fixed Size Data
